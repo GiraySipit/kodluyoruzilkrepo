@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 <h2>Installation</h2>
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-<code>git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git</code>
+<code>git clone https://github.com/GiraySipit/kodluyoruzilkrepo.git</code>
 <h2>Usage</h2>
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
